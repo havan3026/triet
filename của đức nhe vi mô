@@ -6,33 +6,58 @@ P(thị trường)=MR(Doanh thu cận biên)=AR(doanh thu bình quân)=D(hãng) 
 - Điểm đóng cửa: MC (chi phí cận biên)=AVC min (AVC=VC/Q) 
 			hoặc TR=VC (tổng doanh thu = chi phí biến đổi) hoạc PS=0
 		Chịu lỗ 1 khoản bằng FC(chi phí cố định)
-- PS=Tích phân từ 0 đến Q của (P thị trường - MC)dQ
-- S hãng: P=a+bQ (Đường Mc phía trên điểm đóng cửa)
+- PS=Tích phân từ 0 đến Q của (P thị trường - MC)dQ=TR-VC=pi+FC
+- S hãng: P=a+bQ=MC (Đường Mc phía trên điểm đóng cửa)
 		Thị trường có n hãng thì: S thị trường: P=a+b.(Q/n)
+- MC,AVC,ATC: hình dạng chữ U
 
-ĐỌC QUYỀN
+ĐỘC QUYỀN HOÀN TOÀN
 - P=a-bQ => MR=a-2bQ
 - Đường cầu hãng bằng đường cầu thị trường
 - P=AR(doanh thu bình quân)>MR(doanh thu cận biên)
-- Tối ưu hãng: (pi max): MR=MC => Q* và P*
+- Tối ưu hãng: (pi max): MR=MC => Q* và P*; pi max=(P*.Q*-TC)=(P*-ATC).Q*
 	thị trường: (NSB max): P=MC => Q cân bằng (Qe)
-- Tối đa doanh thu: MR=0
+- Tối đa doanh thu: MR=0 (cạnh tranh hoàn hảo 0 có)
 - CS= tích phân từ 0 đến Q* của (P-P*)dQ
 - PS= tích phân từ 0 đến Q* của (P*-MC)dQ
 - NSB= tích phân từ 0 đến Q* của (P-MC)dQ ; DWL = tích phân từ Q* đến Qe của (P-MC)dQ
 - Không có đường S hãng
-- SMTT: Lerner L=P*-MC/P*=-1/E(dp) (0<L<1) càng gần 1 càng mạnh
+- SMTT: Lerner L=P*-MC/P*=-1/E(dp) (0<=L<=1) càng gần 1 càng mạnh
+
+ĐỘC QUYỀN PHÂN BIỆT GIÁ HOÀN HẢO
+-Sản xuất tại: P=MC => Q
+- TR= tích phân từ 0 đến Q của PdQ (P=a-bQ) => pi =TR-TC
+S vàng = Doanh thu = PS(tam giác) + VC = diện tích hình thang
+- VC= tích phân từ 0 đến Q của MC dq = S đỏ
+=> PS=Doanh thu - Vc => pi=PS-FC
+- chiếm toàn bộ thặng dư của người tiêu dùng đến thặng dư của ng sản xuất
+->  CS=0 và PS max => NSB max và DWL=0
+
+ĐỘC QUYỀN BÌNH THƯỜNG
+-Điểm tối ưu: MR=MC => Ư* và P*
+CS= tích phân từ 0 đến Q* của (P-P*)dQ
+PS= tích phân từ 0 đến Q* của (P*-MC)dQ
+=> NSB chưa max =>>> DWL= tích phân từ Q* đến Q của (P-MC)dQ
 
 ĐÁNH THUẾ VÀO ĐỘC QUYỀN
 1.t/sp
 MC2=MC1+t
-- Điểm tối ưu: MC2=MR => P2* và Q2*
-=> TC2=TC1+Q
+- Điểm tối ưu: MC2=MR => P2* (>P1*) và Q2* (<Q1*)
+=> TC2=TC1+Q.t
 	pi 2= P* NHÂN Q* - TC2
 2. Cố định(1 lần)
 MC không đổi
 - Điểm tối ưu không đổi
 TC2=TC1+T và pi2=pi1-T
+
+ĐÁNH THUẾ - TRỢ CẤP
+- THUẾ: pS2=pS1+T + TRỢ CẤP: Ps2=Ps1-trợ cấp => CB mới: Ps2=PD => Pe2 và Qe2
+- người tiêu dùng chịu thuế: Pe2-Pe1 và ng sx chịu: t-ng tiêu dùng
+- CS = tích phân 0 đến Qs2 của (Pd-Pe2)
+- PS = tích phân 0 đến Qs2 của (P3-Ps1) (P3=Pe2-t)
+- NSB=CS+PS+Doanh thu thuế(=t.Qe2)
+- THUẾ: DWL=tích phân Qs2 đến Qs1 (Pd-Ps1)=t.(Q1-Q2)/2
+- TRỢ CẤP THÌ DWL TỪ Qs1 đến Qs2
 
 THẶNG DƯ
 CS=tích phân từ 0 đến Qe của (PD-Pe)dQ (thặng dư tiêu dùng)
@@ -50,8 +75,31 @@ CO GIÃN
 4. TR/tổng chi tiêu--co giãn: P giảm => TR tăng
 		---- 0 co giãn: P tăng => TR tăng
 5. Thuế đánh vào người sx: càng co giãn càng chịu ít thuế
-6. Thuế đánh vào người tiêu dùng: càng co giãn càng chịu nhiều thuế
+6. Thuế đánh vào người tiêu dùng: càng co giãn càng chịu ít thuế
 7. Co giãn cầu luôn âm, co giãn cung luôn dương
+
+GIÁ TRẦN, GIÁ SÀN
+1. Giá trần: cao nhất ng bán đc phép bán để bve ng mua (P trần <Pe)
+=> Qd>Qs => thiết hụt
+CS= tích phân 0 đến Qs (Pd-P trần)dQ
+PS= tích phân 0 đến Qs (P trần -Ps)dQ
+DWL=tích phân từ Qs đến Qe của Pd-Ps
+2. Giá sàn: thấp nhất người mua phai rmua để bảo vệ ng bán (P sàn>Pe)
+=> Qs>Qd => dư thừa
+CS= tích phân 0 đến Qd (Pd-P sàn)dQ
+PS= tích phân 0 đến Qd (P sàn -Ps)dQ
+DWL=tích phân từ Qd đến Qe của Pd-Ps
+
+CHÍNH PHỦ ĐÁNH VÀO XUẤT NHẬP KHẨU (TMQT)
+-NSB cả 2 nước đều tăng ------ xuất: PS tăng, CS giảm
+                        ------ nhập: CS tăng, PS giảm
+- hạn chế: đánh thuế hoặc hạn ngạch nhập khẩu(DWL>đánh thuế)còn KHUYẾN KHÍCH: trợ cấp
+
+ĐƯỜNG PPF: CPCH= độ dốc PPF
+-CP chìm= CP quá khứ
+NB=TB-Tc (lợi tích ròng=tổng doanh thu(TB) - tổng chi phí(TC))
+- TB max => MB=0
+-NB max => MB=MC
 
 - Tiêm phòng --> ngoại ứng tích cực
 - Đạt hiệu quả trong sử dụng nguồn lực chung --> hạn ngạch sản xuất, thuế, hạn ngạch chuyển nhượng, quyền sở hữu

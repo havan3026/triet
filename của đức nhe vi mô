@@ -2,7 +2,7 @@ CẠNH TRANH HOÀN HẢO
 P(thị trường)=MR(Doanh thu cận biên)=AR(doanh thu bình quân)=D(hãng) khác D(thị trường) 
 -Tối ưu của hãng, thị trường: MC=P(thị trường)
 				MC= Đạo hàm của TC hoặc của VC
-- Điểm hòa vốn: MC=ATC min (ATC=TC/Q)
+- Điểm hòa vốn: MC=ATC min (ATC=TC/Q); P=ATC min thì hãng thu đc lợi nhuận kte =0
 - Điểm đóng cửa: MC (chi phí cận biên)=AVC min (AVC=VC/Q) 
 			hoặc TR=VC (tổng doanh thu = chi phí biến đổi) hoạc PS=0
 		Chịu lỗ 1 khoản bằng FC(chi phí cố định)
@@ -10,10 +10,12 @@ P(thị trường)=MR(Doanh thu cận biên)=AR(doanh thu bình quân)=D(hãng) 
 - S hãng: P=a+bQ=MC (Đường Mc phía trên điểm đóng cửa)
 		Thị trường có n hãng thì: S thị trường: P=a+b.(Q/n)
 - MC,AVC,ATC: hình dạng chữ U
+- P<ATC(TR<TC): lỗ; AVC<P<ATC: ttuc sx do dso đủ bù đắp cpbđ và 1 phần cpcđ; P<=AVC min: đóng cửa(điểm đóng cửa)
 
 ĐỘC QUYỀN HOÀN TOÀN
 - P=a-bQ => MR=a-2bQ
 - Đường cầu hãng bằng đường cầu thị trường
+- Đường cầu hãng độc quyền là dường doanh thu bình quân (AR); trừ dvi sp đầu thì MR luôn nằm dưới đg cầu
 - P=AR(doanh thu bình quân)>MR(doanh thu cận biên)
 - Tối ưu hãng: (pi max): MR=MC => Q* và P*; pi max=(P*.Q*-TC)=(P*-ATC).Q*
 	thị trường: (NSB max): P=MC => Q cân bằng (Qe)
